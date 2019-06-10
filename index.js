@@ -13,3 +13,12 @@ function logShout() {
 function logWhisper() {
   console.log(whisper('HELLO'))
 }
+
+function sayHiToGranma(string) {
+  if (string.toUpperCase() === string) {
+    
+  }
+  if (string.toLowerCase() === string){
+    
+  }
+}
